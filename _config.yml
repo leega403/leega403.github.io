@@ -13,12 +13,12 @@ url:                 https://leega403.github.io
 baseurl:             ""
 
 # A very short description of your page
-tagline:             "자꾸 배운 거 까먹어서 만든 블로그입니다 :-) \n 금융과 프로그래밍언어를 공부합니다."
+tagline:             "금융과 프로그래밍언어를 공부합니다:-)"
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  항상 겸허하게 살자!
+  금융과 프로그래밍언어를 공부합니다:-)
 
 
 # This should be the same author as first entry in `_data/authors.yml`

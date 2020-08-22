@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[python]데이터분석을 위한 판다스 기초 배우기"
+title:  "[Python]-[책리뷰]-데이터분석을 위한 판다스 기초 배우기"
 subtitle:   "Do it! 데이터분석을 위한 판다스 입문"
 categories: programming
 tags: python

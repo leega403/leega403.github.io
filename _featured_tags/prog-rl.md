@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: ML
-slug: ml
+title: RL
+slug: rl
 category: programming
 menu: false
 order: 3

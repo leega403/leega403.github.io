@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               지식보관 blog
+title:               두더지캔디 blog
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -18,7 +18,7 @@ tagline:             "경제와 금융, 데이터를 파헤치는 것을 좋아�
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  금융과 프로그래밍언어를 공부합니다
+  운동과 데이터 분석이 취미입니다!
 
 
 # This should be the same author as first entry in `_data/authors.yml`

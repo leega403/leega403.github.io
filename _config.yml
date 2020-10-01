@@ -13,12 +13,12 @@ url:                 https://leega403.github.io
 baseurl:             ""
 
 # A very short description of your page
-tagline:             "경제와 금융, 데이터를 파헤치는 것을 좋아합니다:-)"
+tagline:             "경제와 금융과 데이터"
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  운동과 데이터 분석이 취미입니다!
+  경제와 금융과 데이터를 파헤치는 것을 좋아합니다!
 
 
 # This should be the same author as first entry in `_data/authors.yml`

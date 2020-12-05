@@ -4,7 +4,7 @@ title: Economy
 slug: economy
 menu: true
 submenu: false
-order: 2
+order: 5
 description: >
-  거시경제, 경제이슈, 시장의 흐름에 대하여 
+  거시경제, 경제이슈, 시장의 흐름에 대하여
 ---

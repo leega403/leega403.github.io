@@ -13,12 +13,12 @@ url:                 https://leega403.github.io
 baseurl:             ""
 
 # A very short description of your page
-tagline:             "경제와 금융과 데이터"
+tagline:             "공부블로그"
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  경제와 금융과 데이터를 파헤치는 것을 좋아합니다!
+  Input과 Output!
 
 
 # This should be the same author as first entry in `_data/authors.yml`
@@ -138,4 +138,3 @@ tipue_search:
     files: [search.html, index.html, tags.html]
     categories: []
     tags: []
-    

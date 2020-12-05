@@ -2,7 +2,7 @@
 layout: tag-blog
 title: Python
 slug: python
-category: programming
+category: language
 menu: false
 order: 1
 ---

@@ -4,5 +4,5 @@ title: Algorithms
 slug: algorithms
 category: programming
 menu: false
-order: 3
+order: 1
 ---
